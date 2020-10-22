@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Sandeep Dhamale ## Automation Architect | DevOps QA 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/20200126_190259.jpg" alt="Sandeep Dhamale" width="100" height="150">
-<p><center><i> Sandeep Dhamale is a diligent self-starter, continuous learner, avid
+# Sandeep Dhamale 
+## Automation Architect | DevOps QA 
+<p><center><img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/20200126_190259.jpg" alt="Sandeep Dhamale" width="100" height="150">
+<i> Sandeep Dhamale is a diligent self-starter, continuous learner, avid
 			 networker and seeking opportunities for growth and development. 
 	</br>Firmly believes in, is that in the midst of all our accomplishments, we
 		 Should always find ways to give back to the society / community. 
