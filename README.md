@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 	<img src="https://github-readme-stats.vercel.app/api/?username=SandeepDhamale19&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 </p>
 </br>
+
 ### 🛠️ Tech stack
 
 | Type         | Skills            |
