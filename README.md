@@ -32,11 +32,13 @@ Here are some ideas to get you started:
 	<a title="Facebook" href="https://www.facebook.com/sandeep.dhamale" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue.svg?style=flat&logo=facebook" alt="Facebook" target="_blank"></a> 
 	<a title="My personal website" href="https://sandeepdhamale.webs.com/" target="_blank"><img height="20" width="80" src="https://img.shields.io/badge/SandeepDhamale-purple?style=flat&logo=SandeepDhamaleWebsite"></a>-->
 
-### Professional
+#### Professional
+#
 [<img align="left" alt="Sandy's Gits | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg" />][website]
 [<img align="left" alt="Sandy's Gits | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/stackoverflow.svg" />][stackoverflow]
 </br>
-### Social
+#### Social
+#
 [<img align="left" alt="Sandy's Channels | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/internetexplorer.svg" />][website]
 [<img align="left" alt="Sandy's Channels | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twit with Sandy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
