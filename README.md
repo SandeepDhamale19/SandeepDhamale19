@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 # Sandeep Dhamale 
 ## Automation Architect | DevOps QA 
 <p>
-	<img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/20200126_190259.jpg" alt="Sandeep Dhamale" width="100" height="150"> <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />(https://open.spotify.com/user/4jago3eor9bhzhpmna5693ynt
-)
+	<img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/20200126_190259.jpg" alt="Sandeep Dhamale" width="100" height="150"> <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Sandy" width="350" />
 <center><i> Sandeep Dhamale is a diligent self-starter, continuous learner, avid
 			 networker and seeking opportunities for growth and development. 
 	</br>Firmly believes in, is that in the midst of all our accomplishments, we
@@ -110,3 +109,4 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/sandeep-dhamale
 [facebook]: https://www.facebook.com/Sandeep.Dhamale.19
 [facebook]: https://www.facebook.com/Sandeep.Dhamale.19
+[spotify]: https://www.facebook.com/Sandeep.Dhamale.19
