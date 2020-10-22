@@ -25,13 +25,26 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me:
 <p align="left">	
-	<a title="Github" href="https://github.com/SandeepDhamale19" target="_blank"><img src="https://img.shields.io/github/followers/SandeepDhamale19.svg?label=GitHub&style=social%22%20alt=%22GitHub" target="_blank"></a>	
+	<!--<a title="Github" href="https://github.com/SandeepDhamale19" target="_blank"><img src="https://img.shields.io/github/followers/SandeepDhamale19.svg?label=GitHub&style=social%22%20alt=%22GitHub" target="_blank"></a>	
 	<a title="LinkedIn" href="https://www.linkedin.com/in/sandeep-dhamale/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" target="_blank"></a>	
 	<!--<a title="Stack Overflow" href="https://stackoverflow.com/users/6879070/sandeep-dhamale"><img height="50" width="100" alt="Stack Overflow" src="https://img.shields.io/endpoint?color=white&label=StackOverflow&logo=stackoverflow&logoColor=stackoverflow&style=social&url=https%3A%2F%2Fshields.redsparr0w.com%2Fstackoverflow"></a>-->
 	<a title="Stack Overflow" href="https://stackoverflow.com/users/6879070/sandeep-dhamale"><img alt="Stack Overflow" src="https://img.shields.io/badge/StackOverflow--white?style=social&logo=stackoverflow"></a>
 	<a title="Facebook" href="https://www.facebook.com/sandeep.dhamale" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue.svg?style=flat&logo=facebook" alt="Facebook" target="_blank"></a> 
-	<a title="My personal website" href="https://sandeepdhamale.webs.com/" target="_blank"><img height="20" width="80" src="https://img.shields.io/badge/SandeepDhamale-purple?style=flat&logo=SandeepDhamaleWebsite"></a>
+	<a title="My personal website" href="https://sandeepdhamale.webs.com/" target="_blank"><img height="20" width="80" src="https://img.shields.io/badge/SandeepDhamale-purple?style=flat&logo=SandeepDhamaleWebsite"></a>-->
+
+### Professional
+[<img align="left" alt="Sandy's Gits | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg" />][website]
+[<img align="left" alt="Sandy's Gits | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/stackoverflow.svg" />][stackoverflow]
+</br>
+### Social
+[<img align="left" alt="Sandy's Channels | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/internetexplorer.svg" />][website]
+[<img align="left" alt="Sandy's Channels | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Twit with Sandy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Link with Sany | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Insta Sandy! | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Face Sandy! | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
 <br/>
+
 </p>
 
 <p align="center">
@@ -86,3 +99,12 @@ Here are some ideas to get you started:
 ## Test Automation Framework
 <img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/Logos/Framework_Java_Selenium.png" alt="Test Automation Framework">
 
+[website]: https://sandeepdhamale.webs.com
+[github]: https://github.com/SandeepDhamale19
+[stackoverflow]: https://stackoverflow.com/users/6879070/sandeep-dhamale
+[twitter]: https://twitter.com/TwitTheHero
+[youtube]: https://www.youtube.com/user/Sandy007d
+[instagram]: https://www.instagram.com/sandeep.dhamale
+[linkedin]: https://www.linkedin.com/in/sandeep-dhamale
+[facebook]: https://www.facebook.com/Sandeep.Dhamale.19
+[facebook]: https://www.facebook.com/Sandeep.Dhamale.19
