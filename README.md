@@ -45,11 +45,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Face Sandy! | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
 <br/>
 
-</p>
-
-<p align="center">
-	<b> Python · C# · Java · Selenium · REST API · Appium · Browserstack · Azure DevOps · SQL </b>
-</p>
 
 ## 📫 Github Summary:
 <p align="center">
