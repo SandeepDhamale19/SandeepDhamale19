@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 </br>
 
 ## 📫 How to reach me:
-<p align="left">	
-	<!--<a title="Github" href="https://github.com/SandeepDhamale19" target="_blank"><img src="https://img.shields.io/github/followers/SandeepDhamale19.svg?label=GitHub&style=social%22%20alt=%22GitHub" target="_blank"></a>	
+<!--<p align="left">	
+	<a title="Github" href="https://github.com/SandeepDhamale19" target="_blank"><img src="https://img.shields.io/github/followers/SandeepDhamale19.svg?label=GitHub&style=social%22%20alt=%22GitHub" target="_blank"></a>	
 	<a title="LinkedIn" href="https://www.linkedin.com/in/sandeep-dhamale/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" target="_blank"></a>	
 	<!--<a title="Stack Overflow" href="https://stackoverflow.com/users/6879070/sandeep-dhamale"><img height="50" width="100" alt="Stack Overflow" src="https://img.shields.io/endpoint?color=white&label=StackOverflow&logo=stackoverflow&logoColor=stackoverflow&style=social&url=https%3A%2F%2Fshields.redsparr0w.com%2Fstackoverflow"></a>
 	<a title="Stack Overflow" href="https://stackoverflow.com/users/6879070/sandeep-dhamale"><img alt="Stack Overflow" src="https://img.shields.io/badge/StackOverflow--white?style=social&logo=stackoverflow"></a>
@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="Link with Sany | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Insta Sandy! | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Face Sandy! | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
+<br/>
+<br/>
 <br/>
 
 
