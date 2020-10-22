@@ -13,8 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Sandeep Dhamale
-## Automation Architect | DevOps QA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/20200126_190259.jpg" alt="Sandeep Dhamale" width="100" height="150">
+# Sandeep Dhamale ## Automation Architect | DevOps QA 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/20200126_190259.jpg" alt="Sandeep Dhamale" width="100" height="150">
+<p><center><i> Sandeep Dhamale is a diligent self-starter, continuous learner, avid
+			 networker and seeking opportunities for growth and development. 
+	</br>Firmly believes in, is that in the midst of all our accomplishments, we
+		 Should always find ways to give back to the society / community. 
+	</i></center></p>
+</br>
 
 ### 📫 How to reach me:
 <p align="left">	
@@ -34,13 +40,7 @@ Here are some ideas to get you started:
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/?username=SandeepDhamale19&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 </p>
-
-<p><center><i><b><h3> Sandeep Dhamale</h3></b>     is a diligent self-starter, continuous learner, avid
-			 networker and seeking opportunities for growth and development. 
-	</br>Firmly believes in, is that in the midst of all our accomplishments, we
-		 Should always find ways to give back to the society / community. 
-	</i></center></p>
-
+</br>
 ### 🛠️ Tech stack
 
 | Type         | Skills            |
