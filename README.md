@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 </br>
 </br>
 ## :zap:GitHub Stats
-<table>
-	<tr border="none">
+<table border="0" cellspacing="0" cellpadding="0">
+	<tr>
 		<td>
 		<details>
 		  <summary>GitHub Stats</summary>
