@@ -43,17 +43,19 @@ Here are some ideas to get you started:
 [<img align="left" alt="Link with Sany | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Insta Sandy! | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Face Sandy! | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
-<br/>
+
+### GitHub Stats
 <table>
-	<tr>
+	<tr border="none">
 		<td>
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Sandy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SandeepDhamale19&show_icons=true&hide_border=true"" />
-</details>
-</td>
-</tr>
+		<details>
+		  <summary>:zap: GitHub Stats</summary>
+		  <img align="left" alt="Sandy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SandeepDhamale19&show_icons=true&hide_border=true"" />
+		</details>
+		</td>
+	</tr>
 </table>
+</p>
 		
 <!--
 ## 📫 Github Summary:
@@ -61,7 +63,6 @@ Here are some ideas to get you started:
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/?username=SandeepDhamale19&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 </p>-->
-</br>
 
 ## 🛠️ Tech stack
 
