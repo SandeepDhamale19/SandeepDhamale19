@@ -15,16 +15,15 @@ Here are some ideas to get you started:
 
 # Sandeep Dhamale 
 ## Automation Architect | DevOps QA 
-<p>
-	<img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/20200126_190259.jpg" alt="Sandeep Dhamale" width="100" height="150"> <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Sandy" width="350" />
-<center><i> Sandeep Dhamale is a diligent self-starter, continuous learner, avid
+<img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/20200126_190259.jpg" alt="Sandeep Dhamale" width="100" height="150"> [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Sandy" width="350" />][spotify]
+<p><center><i> Sandeep Dhamale is a diligent self-starter, continuous learner, avid
 			 networker and seeking opportunities for growth and development. 
 	</br>Firmly believes in, is that in the midst of all our accomplishments, we
 		 Should always find ways to give back to the society / community. 
 	</i></center></p>
 </br>
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 <p align="left">	
 	<!--<a title="Github" href="https://github.com/SandeepDhamale19" target="_blank"><img src="https://img.shields.io/github/followers/SandeepDhamale19.svg?label=GitHub&style=social%22%20alt=%22GitHub" target="_blank"></a>	
 	<a title="LinkedIn" href="https://www.linkedin.com/in/sandeep-dhamale/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" target="_blank"></a>	
@@ -52,12 +51,13 @@ Here are some ideas to get you started:
 	<b> Python · C# · Java · Selenium · REST API · Appium · Browserstack · Azure DevOps · SQL </b>
 </p>
 
+## 📫 Github Summary:
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/?username=SandeepDhamale19&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 </p>
 </br>
 
-### 🛠️ Tech stack
+## 🛠️ Tech stack
 
 | Type         | Skills            |
 | -------------- | ---------          |
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 | Test Management Tool    | Azure DevOps, MTM|
 <br/>
 
-### 👯 Open source collaborations
+## 👯 Open source collaborations
 |Programming Language |Gists |
 | -------------- | ---------          |
 |Java.Basics   | https://github.com/SandeepDhamale19/TestAutomation.Java.Basics|
@@ -109,4 +109,4 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/sandeep-dhamale
 [facebook]: https://www.facebook.com/Sandeep.Dhamale.19
 [facebook]: https://www.facebook.com/Sandeep.Dhamale.19
-[spotify]: https://www.facebook.com/Sandeep.Dhamale.19
+[spotify]: https://open.spotify.com/user/4jago3eor9bhzhpmna5693ynt
