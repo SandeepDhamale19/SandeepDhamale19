@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 <br/>
 
 ## 👯 Open source collaborations
-|Programming Language |Gists |
+|Programming Language |Repositories |
 | -------------- | ---------          |
 |Java.Basics   | https://github.com/SandeepDhamale19/TestAutomation.Java.Basics|
 |Java.Selenium | https://github.com/SandeepDhamale19/TestAutomation.Java.Selenium|
