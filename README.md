@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Link with Sandy | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
 [<img align="left" alt="Sandy's Gits | Github" width="50px" src="https://img.icons8.com/windows/2x/github.png" />][website]
 [<img align="left" alt="Sandy's Stack | StackOverflow" width="50px" src="https://img.icons8.com/color/2x/stackoverflow.png" />][stackoverflow]
-[<img align="left" alt="Link with Sany | LinkedIn" width="50px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Link with Sandy | LinkedIn" width="50px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
 </br>
 #### Social:
 <!--[<img align="left" alt="Sandy's Website | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/internetexplorer.svg" />][website]
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Sandy's Channels | YouTube" width="50px" src="https://img.icons8.com/color/96/000000/youtube.png" />][youtube]
 [<img align="left" alt="Twit with Sandy | Twitter" width="50px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />][twitter]
 [<img align="left" alt="Insta Sandy! | Instagram" width="50px" src="https://img.icons8.com/color/96/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="Face Sandy! | Facebook" width="50px" src="https://img.icons8.com/color/96/000000/facebook.png.svg" />][instagram]
+[<img align="left" alt="Face Sandy! | Facebook" width="50px" src="https://img.icons8.com/color/96/000000/facebook.png" />][facebook]
 </br>
 </br>
 ## :zap:GitHub Stats
