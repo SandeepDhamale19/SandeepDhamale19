@@ -33,16 +33,24 @@ Here are some ideas to get you started:
 	<a title="My personal website" href="https://sandeepdhamale.webs.com/" target="_blank"><img height="20" width="80" src="https://img.shields.io/badge/SandeepDhamale-purple?style=flat&logo=SandeepDhamaleWebsite"></a>-->
 
 #### Professional:
-[<img align="left" alt="Sandy's Gits | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg" />][website]
-[<img align="left" alt="Sandy's Gits | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/stackoverflow.svg" />][stackoverflow]
+<!--[<img align="left" alt="Sandy's Gits | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg" />][website]
+[<img align="left" alt="Sandy's Stack | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="Link with Sandy | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
+[<img align="left" alt="Sandy's Gits | Github" width="50px" src="https://img.icons8.com/windows/2x/github.png" />][website]
+[<img align="left" alt="Sandy's Stack | StackOverflow" width="50px" src="https://img.icons8.com/color/2x/stackoverflow.png" />][stackoverflow]
+[<img align="left" alt="Link with Sany | LinkedIn" width="50px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
 </br>
 #### Social:
-[<img align="left" alt="Sandy's Channels | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/internetexplorer.svg" />][website]
+<!--[<img align="left" alt="Sandy's Website | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/internetexplorer.svg" />][website]
 [<img align="left" alt="Sandy's Channels | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twit with Sandy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Link with Sany | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Insta Sandy! | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Face Sandy! | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
+[<img align="left" alt="Face Sandy! | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]-->
+[<img align="left" alt="Sandy's Website | Website" width="50px" src="https://img.icons8.com/fluent/96/000000/domain.png" />][website]
+[<img align="left" alt="Sandy's Channels | YouTube" width="50px" src="https://img.icons8.com/color/96/000000/youtube.png" />][youtube]
+[<img align="left" alt="Twit with Sandy | Twitter" width="50px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />][twitter]
+[<img align="left" alt="Insta Sandy! | Instagram" width="50px" src="https://img.icons8.com/color/96/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="Face Sandy! | Facebook" width="50px" src="https://img.icons8.com/color/96/000000/facebook.png.svg" />][instagram]
 </br>
 </br>
 ## :zap:GitHub Stats
