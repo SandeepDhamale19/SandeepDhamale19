@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p><center><i> Sandeep Dhamale is a diligent self-starter, continuous learner, avid
 			 networker and seeking opportunities for growth and development. 
 	</br>Firmly believes in, is that in the midst of all our accomplishments, we
-		 Should always find ways to give back to the society / community. 
+		 should always find ways to give back to the society / community. 
 	</i></center></p>
 </br>
 
