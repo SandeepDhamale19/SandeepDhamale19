@@ -76,6 +76,8 @@ Here are some ideas to get you started:
 </p>-->
 
 ## 🛠️ Tech stack
+<img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/Logos/Tools_2_30.png" alt="Test Automation Tools" width="350"><img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/Logos/VerticalLine.png" alt="Vertical Line" height="250" width="4"><img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/Logos/Databases.png" alt="Databases" width="250"><img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/Logos/VerticalLine.png" alt="Vertical Line" height="250" width="4"><img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/Logos/PerformanceTesting.png" alt="Performance Testing" height="190">
+
 
 | Type         | Skills            |
 | -------------- | ---------          |
