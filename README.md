@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 | Type         | Skills            |
 | -------------- | ---------          |
-| Script    | C#, Python, JavaScript, Java, Powershell, VB Script |
+| Scripting    | C#, Python, JavaScript, Java, Powershell, VB Script |
 | Tool    | Selenium WebDriver, Appium, UFT (QTP) |
 | API Automation    | Restsharp, RestAssured, Postman |
 | BDD Framework    | Specflow, Cucumber (Gherkin) |
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 | Version Control    | GIT, Github, Azure DevOps Repos |
 | Performance    | Jmeter |
 | IDE    | Visusl Studio, VS Code, PyCharm, IntelliJ IDEA Ultimate, Eclipse |
-| Defect Tracking and Project Management Tool    | Azure DevOps Test Plan, JIRA |
+| Project Management Tool    | Azure DevOps Test Plan, JIRA |
 | Test Management Tool    | Azure DevOps, MTM|
 <br/>
 
