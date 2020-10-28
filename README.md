@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <!--[<img align="left" alt="Sandy's Gits | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg" />][website]
 [<img align="left" alt="Sandy's Stack | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="Link with Sandy | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
-[<img align="left" alt="Sandy's Gits | Github" width="50px" src="https://img.icons8.com/windows/2x/github.png" />][website]
+[<img align="left" alt="Sandy's Gits | Github" width="50px" src="https://img.icons8.com/windows/2x/github.png" />][github]
 [<img align="left" alt="Sandy's Stack | StackOverflow" width="50px" src="https://img.icons8.com/color/2x/stackoverflow.png" />][stackoverflow]
 [<img align="left" alt="Link with Sandy | LinkedIn" width="50px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
 </br>
