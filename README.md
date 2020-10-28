@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 ## Automation Architect | DevOps QA 
 <img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/20200126_190259.jpg" alt="Sandeep Dhamale" width="100" height="150"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Sandy" width="350"/>][spotify]
 </br>
-<p><center><i> Sandeep Dhamale is a diligent self-starter, continuous learner, avid
+<p><center><i><b> Sandeep Dhamale is a diligent self-starter, continuous learner, avid
 			 networker and seeking opportunities for growth and development. 
 	</br>Firmly believes in, is that in the midst of all our accomplishments, we
 		 should always find ways to give back to the society / community. 
-	</i></center></p>
+	</b></i></center></p>
 </br>
 
 <!--## 📫 How to reach me:
