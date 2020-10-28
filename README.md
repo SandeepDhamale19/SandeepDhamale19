@@ -12,10 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Sandeep Dhamale [<img align="right" alt="Sandy's Gits | Github" width="50px" src="https://img.icons8.com/windows/2x/github.png" />][github] [<img align="right" alt="Sandy's Stack | StackOverflow" width="50px" src="https://img.icons8.com/color/2x/stackoverflow.png" />][stackoverflow] [<img align="right" alt="Link with Sandy | LinkedIn" width="50px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin][<img align="right" alt="Sandy's Website | Website" width="50px" src="https://img.icons8.com/fluent/96/000000/domain.png" />][website] [<img align="right" alt="Sandy's Channels | YouTube" width="50px" src="https://img.icons8.com/color/96/000000/youtube.png" />][youtube] [<img align="right" alt="Twit with Sandy | Twitter" width="50px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />][twitter] [<img align="right" alt="Insta Sandy! | Instagram" width="50px" src="https://img.icons8.com/color/96/000000/instagram-new.png" />][instagram] [<img align="right" alt="Face Sandy! | Facebook" width="50px" src="https://img.icons8.com/color/96/000000/facebook.png" />][facebook]
+</br>
 
-# Sandeep Dhamale 
 ## Automation Architect | DevOps QA 
 <img src="https://github.com/SandeepDhamale1905/SandeepDhamaleProfile/blob/master/20200126_190259.jpg" alt="Sandeep Dhamale" width="100" height="150"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Sandy" width="350"/>][spotify]
+</br>
+</br>
+</br>
 <p><center><i> Sandeep Dhamale is a diligent self-starter, continuous learner, avid
 			 networker and seeking opportunities for growth and development. 
 	</br>Firmly believes in, is that in the midst of all our accomplishments, we
@@ -23,19 +27,19 @@ Here are some ideas to get you started:
 	</i></center></p>
 </br>
 
-## 📫 How to reach me:
-<!--<p align="left">	
+<!--## 📫 How to reach me:
+<p align="left">	
 	<a title="Github" href="https://github.com/SandeepDhamale19" target="_blank"><img src="https://img.shields.io/github/followers/SandeepDhamale19.svg?label=GitHub&style=social%22%20alt=%22GitHub" target="_blank"></a>	
 	<a title="LinkedIn" href="https://www.linkedin.com/in/sandeep-dhamale/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" target="_blank"></a>	
 	<!--<a title="Stack Overflow" href="https://stackoverflow.com/users/6879070/sandeep-dhamale"><img height="50" width="100" alt="Stack Overflow" src="https://img.shields.io/endpoint?color=white&label=StackOverflow&logo=stackoverflow&logoColor=stackoverflow&style=social&url=https%3A%2F%2Fshields.redsparr0w.com%2Fstackoverflow"></a>
 	<a title="Stack Overflow" href="https://stackoverflow.com/users/6879070/sandeep-dhamale"><img alt="Stack Overflow" src="https://img.shields.io/badge/StackOverflow--white?style=social&logo=stackoverflow"></a>
 	<a title="Facebook" href="https://www.facebook.com/sandeep.dhamale" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue.svg?style=flat&logo=facebook" alt="Facebook" target="_blank"></a> 
-	<a title="My personal website" href="https://sandeepdhamale.webs.com/" target="_blank"><img height="20" width="80" src="https://img.shields.io/badge/SandeepDhamale-purple?style=flat&logo=SandeepDhamaleWebsite"></a>-->
+	<a title="My personal website" href="https://sandeepdhamale.webs.com/" target="_blank"><img height="20" width="80" src="https://img.shields.io/badge/SandeepDhamale-purple?style=flat&logo=SandeepDhamaleWebsite"></a>
 
-#### Professional:
-<!--[<img align="left" alt="Sandy's Gits | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg" />][website]
+<!--#### Professional:
+[<img align="left" alt="Sandy's Gits | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg" />][website]
 [<img align="left" alt="Sandy's Stack | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="Link with Sandy | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
+[<img align="left" alt="Link with Sandy | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sandy's Gits | Github" width="50px" src="https://img.icons8.com/windows/2x/github.png" />][github]
 [<img align="left" alt="Sandy's Stack | StackOverflow" width="50px" src="https://img.icons8.com/color/2x/stackoverflow.png" />][stackoverflow]
 [<img align="left" alt="Link with Sandy | LinkedIn" width="50px" src="https://img.icons8.com/color/96/000000/linkedin.png" />][linkedin]
@@ -46,7 +50,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Sandy's Channels | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twit with Sandy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Insta Sandy! | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Face Sandy! | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]-->
+[<img align="left" alt="Face Sandy! | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
 [<img align="left" alt="Sandy's Website | Website" width="50px" src="https://img.icons8.com/fluent/96/000000/domain.png" />][website]
 [<img align="left" alt="Sandy's Channels | YouTube" width="50px" src="https://img.icons8.com/color/96/000000/youtube.png" />][youtube]
 [<img align="left" alt="Twit with Sandy | Twitter" width="50px" src="https://img.icons8.com/color/96/000000/twitter-squared.png" />][twitter]
@@ -54,7 +58,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Face Sandy! | Facebook" width="50px" src="https://img.icons8.com/color/96/000000/facebook.png" />][facebook]
 </br>
 </br>
-</br>
+</br>-->
 ## :zap:GitHub Stats
 <table border="0" cellspacing="0" cellpadding="0">
 	<tr>
